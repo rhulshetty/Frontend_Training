@@ -1,3 +1,26 @@
 body{
+ background-color:white;
+}
+
+.tom{
+    padding: 50px;
+    border: 1px solid red;
+}
+
+span{
     color: red;
+    border: 5px solid black;
+    padding: 50px 10px 20px 2px;
+    background-color:lavender;
+
+}
+
+.cat{
+    background-color: lightblue;
+    border: 5px solid blue;
+    padding: 50px;
+    color: black;
+}
+#ids:hover{
+    background-color: tomato;
 }
